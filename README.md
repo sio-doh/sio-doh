@@ -1,6 +1,6 @@
 ### Hallo World :earth_africa:
 ### I'm Siobhan
-### 🇮🇪 full-stack web developer :round_pushpin: 🇩🇪 
+### :🇮🇪: full-stack web developer :round_pushpin: :🇩🇪: 
 ### I am presently seeking a full-stack developer position in the Berlin area 
 ### Reach me on
 
