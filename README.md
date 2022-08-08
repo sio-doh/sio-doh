@@ -1,8 +1,8 @@
 ### Hallo World :earth_africa:
 ### I'm Siobhan
-### :🇮🇪: full-stack web developer :round_pushpin: :🇩🇪: 
+### Irish full-stack web developer living in Germany 
 ### I am presently seeking a full-stack developer position in the Berlin area 
-### Reach me on
+### Reach me on <img src="https://www.linkedin.com/in?username=siobhan--doherty" />
 
 ![Siobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sio-doh&show_icons=true&theme=vue)
 
