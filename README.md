@@ -1,10 +1,8 @@
 ### Hallo World :earth_africa:
 ### I'm Siobhan
-### ![image](https://user-images.githubusercontent.com/63210982/183463966-25691838-3cbf-4325-8710-f1fbb927bfab.png) 
- full-stack web developer
-### :round_pushpin: :germany: 
+### 🇮🇪 full-stack web developer :round_pushpin: 🇩🇪 
 ### I am presently seeking a full-stack developer position in the Berlin area 
-### Reach me on 
+### Reach me on
 
 ![Siobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sio-doh&show_icons=true&theme=vue)
 
