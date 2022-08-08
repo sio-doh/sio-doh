@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hallo Welt :earth_africa:
+### My name is Siobhan
+### :ireland: full-stack web developer
+### :round_pushpin: :germany: 
+### I am presently seeking a full-stack developer position in the Berlin area 
+### Feel free to message me via 
+<!--### Hi there 👋 -->
 <!--
 **sio-doh/sio-doh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
