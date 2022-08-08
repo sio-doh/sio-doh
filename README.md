@@ -1,7 +1,7 @@
 ### I'm Siobhan
 ### Irish full-stack web developer living in Germany 
 ### I am presently seeking a full-stack developer position in the Berlin area 
-### Reach me on ![[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/siobhan--doherty/)]
+### Reach me on ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[(https://www.linkedin.com/in/siobhan--doherty/)]
 
 ![Siobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sio-doh&show_icons=true&theme=vue)
 
