@@ -1,10 +1,13 @@
-### Hallo Welt :earth_africa:
-### My name is Siobhan
+### Hallo World :earth_africa:
 ### :ireland: full-stack web developer
 ### :round_pushpin: :germany: 
 ### I am presently seeking a full-stack developer position in the Berlin area 
-### Feel free to message me via 
-<!--### Hi there 👋 -->
+### Reach me on 
+
+![Siobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sio-doh&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sio-doh)](https://github.com/sio-doh/github-readme-stats) 
+
 <!--
 **sio-doh/sio-doh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
