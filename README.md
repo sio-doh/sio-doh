@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sio-doh&layout=compact)](https://github.com/sio-doh/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=sio-doh&color=green&style=flat)
+
 <!--
 **sio-doh/sio-doh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
