@@ -4,11 +4,13 @@
 
 ![Siobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sio-doh&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sio-doh&layout=compact)](https://github.com/sio-doh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=[sio-doh]&layout=compact)](https://github.com/sio-doh/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=sio-doh&color=green&style=flat)
 
 <!--
+https://github-readme-stats.vercel.app/api/top-langs/?username=sio-doh&layout=compact
 **sio-doh/sio-doh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
