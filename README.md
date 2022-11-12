@@ -1,5 +1,5 @@
 ### I'm Siobhan
-### Irish female full-stack web developer seeking a full-stack / frontend / backend position in the Berlin area 
+### Irish female full-stack web developer seeking a full-stack / frontend position in the Berlin area 
 ### You can find me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siobhan--doherty/)
 
 ![Siobhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sio-doh&count_private=true&theme=tokyonight)
