@@ -7,8 +7,8 @@
 
 <p align="left">  
   <a href="https://linkedin.com/in/siobhan--doherty" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="siobhan--doherty" height="35"/></a> 
+  <a href="https://github.com/sio-doh" target="blank"><img src="https://user-images.githubusercontent.com/104759740/183434810-25cbf45e-1b95-4b6c-a902-5ba97547bed7.svg" alt="sio-doh" height="35"/></a> 
   <a href="https://www.codewars.com/users/sio-doh" target="blank"><img src="https://img.icons8.com/color/256/000000/codewars.png" alt="sio-doh" height="35" width="35"/></a> 
-  <a href="https://github.com/sio-doh" target="blank"><img src="https://user-images.githubusercontent.com/104759740/183434810-25cbf45e-1b95-4b6c-a902-5ba97547bed7.svg" alt="sio-doh" height="35"/></a>
 </p>
 
 ### Languages and Tools: 
