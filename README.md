@@ -1,5 +1,5 @@
 ### I'm Siobhan
-### Irish female full-stack web developer seeking a frontend developer position in the Berlin area 
+### Irish female full-stack web developer/data analyst seeking a frontend developer | data engineer position in the Berlin area 
 
 ![](https://komarev.com/ghpvc/?username=sio-doh&color=green&style=flat) 
 
