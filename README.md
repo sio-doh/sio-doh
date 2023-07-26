@@ -1,5 +1,6 @@
-### I'm Siobhan
-### A full-stack web developer, with a background in data analytics seeking a new position in the Berlin area
+### Hi 👋🏻 I'm Siobhan
+### A full-stack web developer, with a background in data analytics 
+### Currently DevOps-ing at YOC 
 
 ![](https://komarev.com/ghpvc/?username=sio-doh&color=green&style=flat) 
 
