@@ -1,6 +1,6 @@
 ### Hi 👋🏻 I'm Siobhan
 ### A full-stack web developer, with a background in data analytics 
-### Currently DevOps-ing at YOC 
+### Currently DevOps-ing at YOC <br /><a href="https://github.com/sdoherty-yoc" target="blank"><img src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="sdoherty-yoc" height="35"/></a> 
 
 ![](https://komarev.com/ghpvc/?username=sio-doh&color=green&style=flat) 
 
