@@ -25,11 +25,11 @@
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sio-doh&layout=compact" alt="sio-doh"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sio-doh&count_private=true&theme=tokyonight" alt="sio-doh" />
 </p>
 
 
 <!-- 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sio-doh&count_private=true&theme=tokyonight" alt="sio-doh" />
 [![Profile badge](https://www.codewars.com/users/sio-doh/badges/large)](https://www.codewars.com/users/sio-doh) 
 
 ## Support Me💰 
