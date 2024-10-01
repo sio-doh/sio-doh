@@ -1,13 +1,14 @@
 ### Hi 👋🏻 I'm Siobhan
-### A full-stack web developer, with a background in data analytics 
-### Currently DevOps-ing at YOC <br /><a href="https://github.com/sdoherty-yoc" target="blank"><img src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="sdoherty-yoc" height="35"/></a> 
+### A passionate data engineer from Ireland and based in Berlin
+### Experienced in python development, full-stack web development and software testing
+
 
 ![](https://komarev.com/ghpvc/?username=sio-doh&color=green&style=flat) 
 
 ### Connect With Me:
 
 <p align="left">  
-  <a href="https://linkedin.com/in/siobhan--doherty" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="siobhan--doherty" height="35"/></a> 
+  <a href="https://linkedin.com/in/siobhan--doherty" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png" alt="sio-doh" height="35"/></a> 
   <a href="https://github.com/sio-doh" target="blank"><img src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="sio-doh" height="35"/></a> 
   <a href="https://www.codewars.com/users/sio-doh" target="blank"><img src="https://img.icons8.com/color/256/000000/codewars.png" alt="sio-doh" height="35" width="35"/></a> 
 </p>
