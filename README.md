@@ -33,6 +33,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" /> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTg7F5XuDkbpb-UiI_yy8waiy7oqROKjR4g&s" alt="BigQuery" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40" /> 
@@ -46,7 +47,8 @@
   <img src="https://github.com/cucumber/cucumber-js/blob/main/docs/images/logo.svg" alt="cucumberjs" width="40" height="40" /> 
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40" /> 
   <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" height="40" />
-  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" alt="snowflakedb" width="40" height="40" /> 
+  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" alt="snowflakedb" width="40" height="40" />
+  <img src="https://mindtwig.com/wp-content/uploads/2022/04/selenium.png" alt="selenium" width="40" height="40" /> 
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins" /> 
   <img src="https://img.icons8.com/color/48/000000/pycharm.png"  alt="pycharm" /> 
   <img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/vscode.svg" alt="vs-code" width="40" height="40"/> 
@@ -66,6 +68,7 @@
   <img src= "https://img.icons8.com/color/48/000000/solidity.png" alt="solidity" />   
   <img src="https://github.com/walkxcode/dashboard-icons/blob/main/png/nextjs.png" alt="nextjs" width="40" height="40"/> 
   <img src="https://avatars.githubusercontent.com/u/6764390?s=200&v=4" alt="elasticsearch" width="40" height="40" /> 
+  <img src="https://miro.medium.com/v2/resize:fit:720/1*TbIt0TdY1y9mAzEKjOLJsA.png" alt="airflow" width="52" height="40" /> 
 </p>
 </br>
 
