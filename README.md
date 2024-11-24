@@ -19,7 +19,7 @@
 
 <p> 
   <img src="https://img.icons8.com/color/38/000000/company.png" /> 
-    <a href="https://github.com/sdoherty-yoc">YOC Commercial Contributions 2023 - 2024 </a>
+    <a href="https://github.com/siobhan-doherty">YOC Commercial Contributions 2023 - 2024 </a>
   <img src="https://img.icons8.com/color/38/000000/portfolio.png" />
 </p>
 </br>
