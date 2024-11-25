@@ -1,3 +1,11 @@
+</br>
+<p> 
+  <img src="https://img.icons8.com/color/38/000000/company.png" /> 
+    <a href="https://github.com/siobhan-doherty">NEW GITHUB UNDER CONSTRUCTION </a>
+  <img src="https://img.icons8.com/color/38/000000/portfolio.png" />
+</p>
+</br>
+
 ### Hi 👋🏻 I'm Siobhan
 ### A passionate data engineer from Ireland and based in Berlin
 ### Experienced in python development, data analytics, software testing and full-stack web development
@@ -14,13 +22,6 @@
   <a href="https://www.codewars.com/users/sio-doh" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/codewars.png" alt="Codewars" />
   </a>
-</p>
-</br>
-
-<p> 
-  <img src="https://img.icons8.com/color/38/000000/company.png" /> 
-    <a href="https://github.com/siobhan-doherty">YOC Commercial Contributions 2023 - 2024 </a>
-  <img src="https://img.icons8.com/color/38/000000/portfolio.png" />
 </p>
 </br>
 
